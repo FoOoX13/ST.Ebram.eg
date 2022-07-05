@@ -18,8 +18,4 @@ width: 60% ;height: 50%;
     font-weight: bolder;
 }
 
-@media(min-width: 0px) and (max-width: 390px){
-    .img1{
-      width: 300%;
-    }
-}
+
